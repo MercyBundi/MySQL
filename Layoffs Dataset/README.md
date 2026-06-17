@@ -56,15 +56,6 @@ This project explores global tech layoffs using SQL, focusing on data cleaning a
 
 ---
 
-## 📬 Let’s Connect
-
-If you're working on similar projects or want to collaborate:
-
-💼 [LinkedIn](www.linkedin.com/in/mercy-bundi-5931961b8)  
-📧 [bundimercy5@gmail.com]
-
----
-
 ## 🔖 Tags
 
 `#SQL` `#DataCleaning` `#EDA` `#TechLayoffs` `#LayoffsAnalysis` `#DataProjects`
