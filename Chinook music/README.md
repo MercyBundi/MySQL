@@ -63,47 +63,22 @@ Throughout the project, the following SQL techniques were applied:
 
 ## Key Analyses Performed
 
-### Customer Spending Analysis
-
-Identified customers who generated the highest revenue for the music store by calculating total spending from invoice data.
-
-### Artist Performance Analysis
-
-Determined which artists have the largest number of albums in the catalog.
-
-### Customer Support Analysis
-
-Created customer lists grouped by support representatives to understand employee workload distribution.
-
-### Employee Hierarchy Analysis
-
-Mapped reporting relationships between employees and managers.
-
-### Purchase Behavior Analysis
-
-Tracked the music tracks purchased by customers to understand buying patterns.
-
-### Genre Analysis
-
-Analyzed which music genres are purchased most frequently.
-
-### Media Type Analysis
-
-Investigated customer preferences for different media formats.
-
-### Playlist Analysis
-
-Evaluated playlists based on the number of tracks they contain and performed data cleaning to remove duplicate playlists.
-
-### Customer Music Preferences
-
-Used a Common Table Expression (CTE) to identify each customer's most-purchased artist.
+1. **Customer Spending Analysis** - Identified customers who generated the highest revenue for the music store by calculating total spending from invoice data.
+2. **Artist Performance Analysis** - Determined which artists have the largest number of albums in the catalog.
+3. **Customer Support Analysis** - Created customer lists grouped by support representatives to understand employee workload distribution.
+4. **Employee Hierarchy Analysis** Mapped reporting relationships between employees and managers.
+5. **Purchase Behavior Analysis** - Tracked the music tracks purchased by customers to understand buying patterns.
+6. **Genre Analysis** - Analyzed which music genres are purchased most frequently.
+7. **Media Type Analysis** - Investigated customer preferences for different media formats.
+8. **Playlist Analysis** - Evaluated playlists based on the number of tracks they contain and performed data cleaning to remove duplicate playlists.
+9. **Customer Music Preferences** - Used a Common Table Expression (CTE) to identify each customer's most-purchased artist.
 
 ---
 
 ## Files
 
-* `Chinook music Exploratory Analysis.sql` – SQL queries used for the analysis
+* `Chinook music Exploratory Analysis.sql` [file link](https://github.com/MercyBundi/MySQL/blob/main/Chinook%20music/Chinook%20music%20Exploratory%20Analysis.sql) – SQL queries used for the analysis
+* `datasets` - the files used in the project
 * `README.md` – Project documentation
 
 ---
@@ -141,10 +116,4 @@ The insights generated from this analysis can help a music retailer:
 * Chinook Sample Database
 
 ---
-
-## Author
-
-Mercy Bundi
-
-Aspiring Data Analyst passionate about transforming raw data into actionable business insights through SQL, Python, Excel, Power BI, and Tableau.
 
