@@ -18,8 +18,8 @@ This project explores global tech layoffs using SQL, focusing on data cleaning a
 ## 🛠️ Files in This Folder
 
 - `layoffs.csv`: Raw dataset  
-- `Data Cleaning SQL.sql`: SQL queries used for cleaning and preparing the dataset  
-- `Exploratory Data Analysis.sql`: SQL queries used for exploring trends and patterns
+- `Data Cleaning SQL.sql` [(cleaning file link)](https://github.com/MercyBundi/MySQL/blob/main/Layoffs%20Dataset/Data%20Cleaning%20SQL.sql): SQL queries used for cleaning and preparing the dataset  
+- `Exploratory Data Analysis.sql`[(analysis file link)](https://github.com/MercyBundi/MySQL/blob/main/Layoffs%20Dataset/Exploratory%20Data%20Analysis.sql): SQL queries used for exploring trends and patterns
 
 ---
 
