@@ -1,4 +1,4 @@
-# Layoffs Dataset Analysis – SQL Project
+# Covid-19 Layoffs Analysis – SQL Project
 
 This project explores global tech layoffs using SQL, focusing on data cleaning and exploratory analysis. The dataset contains information on companies, locations, industries, employee counts, and layoff events from 2020 onwards.
 
